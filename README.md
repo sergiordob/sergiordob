@@ -1,5 +1,5 @@
-### Hi, welcome to my GitHub!  👋
-
+# Hi, welcome to my GitHub!  👋
+<br /> <!-- Adicione uma tag <br> para criar uma quebra de linha -->
 My name is Sérgio Oliveira, I have a degree in Electronic Engineering from the Federal University of Campina Grande (Brazil), and I work as a Java developer.
 
 In this portfolio, you'll find content essentially related to Java and its ecosystem. Feel free to contact me and enjoy your studies! 📚
@@ -8,27 +8,39 @@ In this portfolio, you'll find content essentially related to Java and its ecosy
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](sergiordob@protonmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sergiordob/)
 
+<br /> <!-- Adicione uma tag <br> para criar uma quebra de linha -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiordob&show_icons=true&theme=dark" alt="Sergio's GitHub stats" />
+</div>
+
+<br /> <!-- Adicione uma tag <br> para criar uma quebra de linha -->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergiordob&bg_color=0d1117&color=fafffd&line=1bcc7c&point=1bcc7c&area=false&hide_border=false" alt="Ashutosh's github activity graph" />
+</div>
+
+<!--
 ![Sergios's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiordob&show_icons=true&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiordob&bg_color=0d1117&color=fafffd&line=1bcc7c&point=1bcc7c&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiordob&bg_color=0d1117&color=fafffd&line=1bcc7c&point=1bcc7c&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br /> <!-- Adicione uma tag <br> para criar uma quebra de linha -->
 
------------------------------------------------------------------------
+# Most used technologies 🖥️
+<br /> <!-- Adicione uma tag <br> para criar uma quebra de linha -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiordob&theme=dark" alt="Top Langs" />
+</div>
 
-### Most used technologies 🖥️
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiordob&theme=dark)
-
-
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiordob&theme=dark)-->
+<br /> <!-- Adicione uma tag <br> para criar uma quebra de linha -->
+<br /> <!-- Adicione uma tag <br> para criar uma quebra de linha -->
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sergiordob}/count.svg" /></p> 
 <br></div>
-
-
-
-
 
 
 
