@@ -4,6 +4,8 @@ My name is Sérgio Oliveira, I have a degree in Electronic Engineering from the 
 
 In this portfolio, you'll find content essentially related to Java and its ecosystem. Enjoy your studies! 📚
 
+HackerRank profile: https://www.hackerrank.com/sergiordob
+
 Feel free to contact me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiordob/)
