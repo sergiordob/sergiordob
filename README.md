@@ -2,7 +2,7 @@
 <br /> <!-- Adicione uma tag <br> para criar uma quebra de linha -->
 My name is Sérgio Oliveira, I have a degree in Electronic Engineering from the Federal University of Campina Grande (Brazil) and I currently work as a Golang developer.
 
-In this portfolio, you'll find content essentially related to Java and its ecosystem. Enjoy your studies! 📚
+Enjoy your studies! 📚
 
 I also produce free technical content about programming on my YouTube channel. You can access it by clicking below:
 
